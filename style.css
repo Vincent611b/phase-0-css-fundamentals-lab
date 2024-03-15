@@ -3,3 +3,26 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header h1{
+  align-items: center;
+  width: 900px;
+  padding: 0 30%;
+}
+
+nav{
+  padding: 0 30%;
+}
+
+#featured-property{
+  padding: 0 20%;
+
+}
+
+#details{
+  align-items: center;
+  justify-content: space-between;
+  display: flex;
+  padding: 0 10%;
+  background-color: red;
+}
